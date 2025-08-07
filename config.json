@@ -88,9 +88,9 @@
   }
   "custom_category": [
     {
-      "name": "伦理",
+      "name": "科幻",
       "type": "movie",
-      "query": "伦理"
+      "query": "科幻"
     }
   ]
 }

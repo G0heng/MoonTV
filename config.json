@@ -86,11 +86,11 @@
       "name": "小猫咪资源"
     }
   }
-  "custom_category": [
+  "custom_category": {
     {
       "name": "科幻",
       "type": "movie",
       "query": "科幻"
     }
-  ]
+  }
 }

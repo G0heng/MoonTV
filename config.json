@@ -56,6 +56,7 @@
     "mdzy": {
       "api": "https://www.mdzyapi.com/api.php/provide/vod",
       "name": "魔都资源"
+      "detail": "https://moduzy2.com/list6/"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -91,6 +92,11 @@
       "name": "伦理",
       "type": "movie",
       "query": "伦理"
+    }
+    {
+      "name": "里番动漫",
+      "type": "tv",
+      "query": "里番动漫"
     }
   ]
 }

@@ -86,4 +86,11 @@
       "name": "小猫咪资源"
     }
   }
+  "custom_category": [
+    {
+      "name": "伦理",
+      "type": "movie",
+      "query": "伦理"
+    }
+  ]
 }

@@ -11,6 +11,11 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
+    "modu":{
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源",
+      "detail": "https://moduzy2.com/"
+    },
     "ruyi": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
